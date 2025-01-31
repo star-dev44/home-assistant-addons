@@ -1,0 +1,13 @@
+name: "Hebrew Calendar"
+version: "0.1.0"
+slug: "hebrew_calendar"
+description: "Replaces all date calendars with the Hebrew calendar in Home Assistant"
+arch:
+  - amd64
+  - armv7
+  - aarch64
+init: false
+startup: application
+boot: auto
+options: {}
+schema: {}
